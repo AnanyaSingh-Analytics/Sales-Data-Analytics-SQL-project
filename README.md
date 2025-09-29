@@ -1,6 +1,6 @@
-## 🌾 Gramik Agri-Tech Analytics Project
+## 🌾 Sales data Analytics Project
 
-This project is a mock data analytics case study for **Gramik**, an agri-tech startup aimed at improving rural agricultural supply chains. It includes SQL-based data modeling and analysis, followed by interactive visualization in Power BI.
+This project is a Sales data analytics case study for **Gramik**, an agri-tech startup aimed at improving rural agricultural supply chains. It includes SQL-based data modeling and analysis, followed by interactive visualization in Power BI.
 
 ## 🧩 Project Overview
 - 🧑‍🌾 Analyze product sales by Village Level Entrepreneurs (VLEs)
